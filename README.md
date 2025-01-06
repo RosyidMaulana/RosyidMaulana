@@ -49,6 +49,11 @@
 <hr>
 
 <h1>GitHub Stats 📊</h1>
+</div>
+<div align="center" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosyidMaulana&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+<br>
 <div align="center" >
   <img src="https://github-readme-stats.vercel.app/api?username=RosyidMaulana&show_icons=true&theme=radical&card_width=300" alt="Your GitHub Stats" />
 </div>
@@ -57,10 +62,6 @@
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=RosyidMaulana&theme=midnight-purple" alt="GitHub Streak" />
   </a>
-</div>
-<div align="center" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosyidMaulana&layout=compact&theme=radical" alt="Top Languages" />
-</div>
 <hr>
 <!--
 ## My Favorite Projects
