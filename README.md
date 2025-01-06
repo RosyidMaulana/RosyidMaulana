@@ -7,7 +7,7 @@ Feel free to explore my repositories! 😊
 
 ## GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RosyidMaulana&show_icons=true&theme=radical)
-[streak-stats](https://streak-stats.demolab.com?user=RosyidMaulana&theme=midnight-purple&fire=EBA108)
+[![GitHub Streak](https://streak-stats.demolab.com?user=RosyidMaulana&theme=midnight-purple)](https://git.io/streak-stats)
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RosyidMaulana&layout=compact&theme=radical)
