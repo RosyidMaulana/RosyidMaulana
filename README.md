@@ -49,15 +49,17 @@
 <hr>
 
 <h1>GitHub Stats 📊</h1>
-<div style="display: flex; justify-content-center: space-around;">
+<div align="center" >
   <img src="https://github-readme-stats.vercel.app/api?username=RosyidMaulana&show_icons=true&theme=radical&card_width=300" alt="Your GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosyidMaulana&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 <br>
 <div align="center" >
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=RosyidMaulana&theme=midnight-purple" alt="GitHub Streak" />
   </a>
+</div>
+<div align="center" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosyidMaulana&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 <hr>
 <!--
