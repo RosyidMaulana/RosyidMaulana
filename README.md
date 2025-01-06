@@ -6,7 +6,7 @@
 
 <hr>
 
-<p align="center"> 
+<p align="center">  
   <a style="margin: 5px 30px" href="https://www.w3schools.com/python/" target="_blank" rel="noreferrer"> 
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
@@ -50,9 +50,9 @@
 
 <h1>GitHub Stats 📊</h1>
 <div style="display: flex; justify-content: space-around;">
-  <img src="https://github-readme-stats.vercel.app/api?username=RosyidMaulana&show_icons=true&theme=radical&card_width=450" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RosyidMaulana&show_icons=true&theme=radical&card_width=400" alt="Your GitHub Stats" />
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=RosyidMaulana&theme=midnight-purple&card_width=450" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=RosyidMaulana&theme=midnight-purple" alt="GitHub Streak" />
   </a>
 </div>
 <br>
