@@ -59,19 +59,24 @@
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=RosyidMaulana&theme=midnight-purple" alt="GitHub Streak" />
   </a>
+</div>
 <hr>
 <!--
 ## My Favorite Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=yourrepository)](https://github.com/yourusername/yourrepository)
 -->
-<div>
-  <h1>My Portfolio</h1>
+<div align="center">
+  <h1>✨ My Portfolio ✨</h1>
   <p> Proyek - proyek yang pernah saya kerjakan</p>
 </div>
 <hr>
 <div>
-  <h2>Mech Laboratory Inventory</h1>
-  <p> Proyek ini dikembangkan untuk mengatasi permasalahan terkait peminjaman barang di laboratorium, di mana sering kali tidak jelas siapa yang meminjam barang dan kapan barang tersebut dipinjam. Sistem ini dirancang sebagai solusi sederhana namun efektif untuk melacak barang yang dipinjam, memungkinkan pengguna mencatat dan memantau informasi mengenai siapa yang meminjam, kapan peminjaman dilakukan, serta detail barang yang dipinjam.</p>
+  <h2>➕ Mech Laboratory Inventory</h1>
+  <p style="text-align: justify;"> Proyek ini dikembangkan untuk mengatasi permasalahan terkait peminjaman barang di laboratorium, di mana sering kali tidak jelas siapa yang meminjam barang dan kapan barang tersebut dipinjam. Sistem ini dirancang sebagai solusi sederhana namun efektif untuk melacak barang yang dipinjam, memungkinkan pengguna mencatat dan memantau informasi mengenai siapa yang meminjam, kapan peminjaman dilakukan, serta detail barang yang dipinjam.
+  </p>
+  <p style="text-align: justify;"> Proyek ini dikerjakan bersama satu rekan, dengan pembagian tugas: saya bertanggung jawab pada pengembangan bagian Backend, sementara rekan saya menangani bagian Frontend.
+  </p>
+ 
 </div>
 
 
