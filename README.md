@@ -23,9 +23,6 @@
   <a style="margin: 5px 30px" href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
   </a>
-  <a style="margin: 5px 30px" href="https://cloud.google.com/" target="_blank" rel="noreferrer"> 
-  	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/> 
-  </a>
 </p>
 
 <p align="center">
@@ -67,6 +64,18 @@
 ## My Favorite Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=yourrepository)](https://github.com/yourusername/yourrepository)
 -->
+<div>
+  <h1>My Portfolio</h1>
+  <p> Proyek - proyek yang pernah saya kerjakan</p>
+</div>
+<hr>
+<div>
+  <h2>Mech Laboratory Inventory</h1>
+  <p> Proyek ini dikembangkan untuk mengatasi permasalahan terkait peminjaman barang di laboratorium, di mana sering kali tidak jelas siapa yang meminjam barang dan kapan barang tersebut dipinjam. Sistem ini dirancang sebagai solusi sederhana namun efektif untuk melacak barang yang dipinjam, memungkinkan pengguna mencatat dan memantau informasi mengenai siapa yang meminjam, kapan peminjaman dilakukan, serta detail barang yang dipinjam.</p>
+</div>
+
+
+
 
 ## Visitor Count
 ![Visitor Count](https://komarev.com/ghpvc/?username=RosyidMaulana&color=blue)
