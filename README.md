@@ -54,12 +54,12 @@
 <div align="center" >
   <img src="https://github-readme-stats.vercel.app/api?username=RosyidMaulana&show_icons=true&theme=radical&card_width=300" alt="Your GitHub Stats" />
 </div>
-<br>
+<!-- <br>
 <div align="center" >
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=RosyidMaulana&theme=midnight-purple" alt="GitHub Streak" />
   </a>
-</div>
+</div> -->
 <hr>
 <!--
 ## My Favorite Projects
