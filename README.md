@@ -2,6 +2,18 @@
 <div align="center">
   <h1>Bonjour! 👋, I'm Muhammad Rosyid Maulana</h1>
   <h3>I'm interested in Backend Development and exploring Data Analysis</h3>
+<p align="center">
+<div>
+<h3>My Online Platform :</h3>
+  <a href="https://www.linkedin.com/in/rosyid-maulana-285728221/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
+  </a>
+ <a href="https://www.kaggle.com/mrosyidmaulana" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="40" height="40" />
+  </a>
+ </div>
+</p>
+
 </div>
 
 <hr>
