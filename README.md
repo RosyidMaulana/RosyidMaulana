@@ -118,9 +118,9 @@
 	<img src="https://github.com/RosyidMaulana/Aassets/blob/main/p2.33.png" alt="Project Screenshot" width="650">
 </div>
 <hr>
-<h2>➕ Klasifikasi Berita - Bert & Powerset Labeling - KAGGLE <a href="https://www.kaggle.com/code/mrosyidmaulana/klasifikasi-model-bert-dan-label-powerset">🪄 Kunjungi Kaggle</a></h2>
-<h2>➕ SI - Forecasting Jumlah Kunjungan Wisatawan - Metode TES <a href="https://github.com/RosyidMaulana/SI---Forcating-dengan-metode-Triple-Exponential-Smoothing.git">🪄 Kunjungi Repository</a></h2>
-<h2>➕ Sistem Rekomendasi TFIDF - Wisata Surabaya <a href="https://sistem-rekomendasi-tfidf-9gswsefkesqjoy2fxmyzui.streamlit.app/">🪄 Kunjungi Streamlit</a></h2>
+<h3>➕ Klasifikasi Berita - Bert & Powerset Labeling - KAGGLE <a href="https://www.kaggle.com/code/mrosyidmaulana/klasifikasi-model-bert-dan-label-powerset">🪄 Kunjungi Kaggle</a></h3>
+<h3>➕ SI - Forecasting Jumlah Kunjungan Wisatawan - Metode TES <a href="https://github.com/RosyidMaulana/SI---Forcating-dengan-metode-Triple-Exponential-Smoothing.git">🪄 Kunjungi Repository</a></h3>
+<h3>➕ Sistem Rekomendasi TFIDF - Wisata Surabaya <a href="https://sistem-rekomendasi-tfidf-9gswsefkesqjoy2fxmyzui.streamlit.app/">🪄 Kunjungi Streamlit</a></h3>
 
 
 
