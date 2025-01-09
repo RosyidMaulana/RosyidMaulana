@@ -83,15 +83,45 @@
     <li>Managemen daftar Peeminjam </li>
     <li>Pencatatan peminjaman barang</li>
   </ul>
- <a href="https://github.com/RosyidMaulana/mechlabinventory-app-main.git">Kunjungi Repository</a>
+ <a href="https://github.com/RosyidMaulana/mechlabinventory-app-main.git">🪄 Kunjungi Repository 🪄</a>
 </div>
-<hr>
 <h3>➖ Preview Project</h3>
 <div align="center">
 	<img src="https://github.com/RosyidMaulana/Aassets/blob/main/p1.1.png" alt="Project Screenshot" width="650">
 	<img src="https://github.com/RosyidMaulana/Aassets/blob/main/p1.2.png" alt="Project Screenshot" width="650">
 	<img src="https://github.com/RosyidMaulana/Aassets/blob/main/p1.3.png" alt="Project Screenshot" width="650">
 </div>
+
+<hr>
+<div>
+  <h2>➕ Finden - Sistem Informasi untuk Mencari Kehilangan - Laaravel</h1>
+  <h4>Sebuah sistem informasi yang membantu masyarakat mencari orang tersayang atau hewan peliharaan yang hilang.</h4>
+  <p align="justify">🧨Proyek ini bertujuan untuk menjadi solusi praktis bagi masyarakat yang mengalami kesulitan dalam mencari kerabat, teman, atau hewan peliharaan yang hilang. Dengan adanya sistem ini, proses pencarian diharapkan menjadi lebih terorganisir dan efisien, terutama dalam kasus kehilangan yang sering terjadi di lingkungan masyarakat.
+  </p>
+  <h3>➖ Fitur yang tersedia</h3> 
+  <ul>
+   <li><strong>Ditemukan</strong>: Menampilkan daftar orang atau hewan yang telah ditemukan.</li>
+   <li><strong>Dicari</strong>: Menampilkan daftar orang atau hewan yang sedang dicari.</li>
+  </ul>
+
+  <h3>➖ Fitur Tambahan</h2>
+<ul>
+  <li><strong>Manajemen Pengguna dan Riwayat Kehilangan</strong>: Admin dapat mengelola data pengguna dan melacak riwayat laporan kehilangan.</li>
+  <li><strong>Verifikasi Laporan</strong>: Hanya laporan yang telah dikonfirmasi oleh pihak berwenang yang dapat dimasukkan ke dalam sistem, untuk memastikan keakuratan dan validitas data.</li>
+</ul>
+ <a href="https://github.com/RosyidMaulana/Finden.git">🪄 Kunjungi Repository 🪄</a>
+</div>
+<h3>➖ Preview Project</h3>
+<div align="center">
+	<img src="https://github.com/RosyidMaulana/Aassets/blob/main/p2.11.png" alt="Project Screenshot" width="650">
+	<img src="https://github.com/RosyidMaulana/Aassets/blob/main/p2.22.png" alt="Project Screenshot" width="650">
+	<img src="https://github.com/RosyidMaulana/Aassets/blob/main/p2.33.png" alt="Project Screenshot" width="650">
+</div>
+<hr>
+<h2>➕ Klasifikasi Berita - Bert & Powerset Labeling - KAGGLE <a href="https://www.kaggle.com/code/mrosyidmaulana/klasifikasi-model-bert-dan-label-powerset">🪄 Kunjungi Kaggle</a></h2>
+<h2>➕ SI - Forecasting Jumlah Kunjungan Wisatawan - Metode TES <a href="https://github.com/RosyidMaulana/SI---Forcating-dengan-metode-Triple-Exponential-Smoothing.git">🪄 Kunjungi Repository</a></h2>
+<h2>➕ Sistem Rekomendasi TFIDF - Wisata Surabaya <a href="https://sistem-rekomendasi-tfidf-9gswsefkesqjoy2fxmyzui.streamlit.app/">🪄 Kunjungi Streamlit</a></h2>
+
 
 
 
