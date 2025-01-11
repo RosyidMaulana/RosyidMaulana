@@ -138,6 +138,6 @@
 
 
 ## Visitor Count
-![Visitor Count](https://komarev.com/ghpvc/?username=RosyidMaulana&color=purple)
+![Visitor Count](https://komarev.com/ghpvc/?username=RosyidMaulana&color=blue)
 
 
